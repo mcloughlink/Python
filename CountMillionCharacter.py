@@ -298,3 +298,6 @@ print("String\n {} \n".format(wordstring))
 print("List\n {} \n".format(str(wordlist)))
 print("Frequencies\n {} \n".format(str(wordfreq)))
 print("Pairs\n {}".format(str(list(zip(wordlist, wordfreq)))))
+print("Adding my 2 cents here"}
+
+
